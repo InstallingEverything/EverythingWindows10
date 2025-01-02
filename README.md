@@ -1,4 +1,4 @@
-![Windows 10] (Images/Windows10.png)
+![Windows 10](Images/Windows10.png)
 
 # Everything Windows 10
 
